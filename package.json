@@ -1,0 +1,27 @@
+{
+  "name": "react-play",
+  "version": "0.0.1",
+  "description": "A playground for react learning",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "lowdb": "^0.10.2",
+    "express": "^4.13.3",
+    "jsonfile": "^2.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadbeef404/react-play.git"
+  },
+  "author": "Jason Pettett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deadbeef404/react-play/issues"
+  },
+  "homepage": "https://github.com/deadbeef404/react-play#readme"
+}
